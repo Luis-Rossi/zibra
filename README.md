@@ -1,4 +1,6 @@
-<img src="./components/img/logo-vert-black.png" alt="Zibra Logo" width="200px" />
+<div align="center">
+  <img src="./components/img/logo-vert-black.png" alt="Zibra Logo" width="200px" />
+</div>
 
 ## 👉 ZIBRA ENGENHARIA - DESENVOLVIMENTO DO WEBSITE
 
